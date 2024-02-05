@@ -22,4 +22,8 @@ return {
     "imsnif/kdl.vim",
     event = "User AstroFile",
   },
+  {
+    "christoomey/vim-tmux-navigator",
+    lazy = false,
+  },
 }
