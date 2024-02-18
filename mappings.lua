@@ -7,6 +7,9 @@ return {
 
   -- first key is the mode
   n = {
+    ["<C-u>"] = { "<C-u>zz" },
+    ["<C-d>"] = { "<C-d>zz" },
+
     ["<C-h>"] = { "<cmd> TmuxNavigateLeft<CR>", desc = "Window Left" },
     ["<C-l>"] = { "<cmd> TmuxNavigateRight<CR>", desc = "Window Right" },
     ["<C-j>"] = { "<cmd> TmuxNavigateDown<CR>", desc = "Window Down" },
