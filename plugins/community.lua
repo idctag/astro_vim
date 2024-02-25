@@ -5,5 +5,6 @@ return {
   -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
 
   { import = "astrocommunity.colorscheme.iceberg-vim" },
+  { import = "astrocommunity.colorscheme.kanagawa-nvim" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
