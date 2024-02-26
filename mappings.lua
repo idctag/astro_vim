@@ -7,6 +7,8 @@ return {
 
   -- first key is the mode
   n = {
+    ["<leader>p"] = { '"_dP' },
+
     ["<C-u>"] = { "<C-u>zz" },
     ["<C-d>"] = { "<C-d>zz" },
 
@@ -43,5 +45,8 @@ return {
   t = {
     -- setting a mapping to false will disable it
     -- ["<esc>"] = false,
+  },
+  v = {
+    ["<leader>p"] = { '"_dP' },
   },
 }
