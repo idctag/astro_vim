@@ -27,4 +27,5 @@ return {
     lazy = false,
   },
   { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
+  { "ThePrimeagen/vim-be-good", lazy = false },
 }
