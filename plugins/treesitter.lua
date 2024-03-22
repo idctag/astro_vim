@@ -9,6 +9,7 @@ return {
       "javascript",
       "html",
       "tsx",
+      "prisma",
     })
   end,
 }
