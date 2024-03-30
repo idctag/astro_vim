@@ -10,6 +10,7 @@ return {
       "html",
       "tsx",
       "prisma",
+      "css",
     })
   end,
 }
