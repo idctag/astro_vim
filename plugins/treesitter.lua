@@ -6,11 +6,11 @@ return {
       "lua",
       "rust",
       "typescript",
-      "javascript",
       "html",
       "tsx",
       "prisma",
       "css",
+      "python",
     })
   end,
 }
